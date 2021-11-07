@@ -1,0 +1,5 @@
+print("There are three doors. The first door has a dragon inside. The second door has fire inside. The third door has water inside. Which door will you choose? Type 1,2 or 3")
+answer=input("Enter your answer.")
+if answer == "1":print("The answer is incorrect. The answer is 3")
+elif answer == "2":print("The answer is incorrect. The answer is 3")
+elif answer == "3":print("The answer is correct.")
